@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/stage.unity
+- path: Assets/Scenes/zyouki.unity
   isLoaded: 1
   isActive: 1
